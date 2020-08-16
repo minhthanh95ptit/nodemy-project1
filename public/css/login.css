@@ -1,0 +1,45 @@
+.container{
+    width: 400px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+.center_text{
+    text-align: center;
+}
+
+.input_size{
+    width: 390px;
+    height: 30px;
+}
+
+.text_block{
+    text-align: end;
+}
+
+.button_block{
+    width: 400px;
+    text-align: center;
+}
+
+.button1{
+    width: 400px;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+.button1:hover{
+    background-color: #3c9fbd;
+}
+
+.button2{
+    width: 400px;
+    height: 40px;
+    background-color: #3c9fbd;
+    color: white;
+    font-size: 18px;
+    border-radius: 10px;
+}
